@@ -6,3 +6,5 @@ Medium article - Risk management and trailing stop with MT5 (with code)
 
 `https://repo.anaconda.com/archive/` - get last version
 
+
+`pip install -r requirements.txt` 
