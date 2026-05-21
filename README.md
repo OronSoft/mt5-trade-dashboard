@@ -1,10 +1,13 @@
-# mt5-order-manager
+# MT5 Order Manager
+Medium article: Risk management and trailing stop with MT5 (with code)
 
-Medium article - Risk management and trailing stop with MT5 (with code)
+### Install app on VPS
+Get the latest Anaconda version from:
+https://repo.anaconda.com/archive/
 
-### install app in vps
+### Install dependencies:
+pip install -r requirements.txt
 
-`https://repo.anaconda.com/archive/` - get last version
-
-
-`pip install -r requirements.txt` 
+## SSL
+Register the IP address with a DNS provider:
+https://freedns.afraid.org/subdomain/ – assign a URL to your IP address.
