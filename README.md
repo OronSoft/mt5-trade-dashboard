@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ## SSL
 Register the IP address with a DNS provider:
 https://freedns.afraid.org/subdomain/ – assign a URL to your IP address.
+
+install winacme: https://www.win-acme.com/ 
