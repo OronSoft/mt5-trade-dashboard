@@ -13,3 +13,7 @@ Register the IP address with a DNS provider:
 https://freedns.afraid.org/subdomain/ – assign a URL to your IP address.
 
 install winacme: https://www.win-acme.com/ 
+
+start python server for acme check: python -m http.server 80 
+
+open the port 80 in windows firewall: 
