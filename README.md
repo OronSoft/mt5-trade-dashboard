@@ -57,16 +57,16 @@
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](docs/screenshots/dashboard-main.png)
+![Dashboard Overview](screenshots/dashboard-main.png)
 *Main dashboard showing live positions, account stats, and symbol watchlist.*
 
-![Alert Overview](docs/screenshots/dashboard-alert.png)
+![Alert Overview](screenshots/dashboard-alert.png)
 *Alert based on price using: pushover*
 
-![Future Trades Overview](docs/screenshots/dashboard-future.png)
+![Future Trades Overview](screenshots/dashboard-future.png)
 *Orders (stop buy/sell) *
 
-![Trading Overview](docs/screenshots/dashboard-trading.png)
+![Trading Overview](screenshots/dashboard-trading.png)
 *Create stop buy/sell orders*
 
 ### MT5 Algorithmic Trading Settings
