@@ -35,3 +35,9 @@ open the port 8443 in windows firewall.
 
 using anaconda console, `python server_mt5.py`
 
+open the browser using full url, ex: `demodashboard.crabdance.com:8443` 
+default credentials: admin/xxxxxx
+
+by default, mt5 does not allow any trading operation from python, if you want to be able to change the stop, create
+order, you can activate the option ( at your own risk) with: Tools/Option/Expert Advisor/allow algorithmic trading
+
