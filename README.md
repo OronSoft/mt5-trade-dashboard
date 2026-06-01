@@ -15,7 +15,7 @@ https://freedns.afraid.org/subdomain/ – assign a URL to your IP address.
 
 install winacme: https://www.win-acme.com/ 
 
-open the port 80 in windows firewall: 
+open the port 80 in windows firewall (used by acme to check the domain): 
 
 <img width="1053" height="328" alt="Capture d’écran 2026-05-30 à 19 53 14" src="https://github.com/user-attachments/assets/1b5e65bc-ee9d-407a-9a63-a9b532db486d" />
 
@@ -29,3 +29,9 @@ update mt5_server.py with the correct file names:
     cert_file = 'xxxx.crabdance.com-crt.pem'
     key_file = 'xxxx.crabdance.com-key.pem'
 ```
+open the port 8443 in windows firewall.
+
+## Main app
+
+using anaconda console, `python server_mt5.py`
+
