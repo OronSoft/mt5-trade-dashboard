@@ -232,20 +232,6 @@ mt5-trade-dashboard/
 ├── server_mt5.py          # Main Flask/FastAPI server
 ├── requirements.txt       # Python dependencies
 ├── README.md               # This file
-├── LICENSE                 # MIT License
-├── config/
-│   └── settings.py         # Server & auth configuration
-├── static/
-│   ├── css/               # Dashboard styles
-│   └── js/                # Frontend scripts
-├── templates/
-│   └── index.html          # Main dashboard UI
-├── modules/
-│   ├── mt5_connector.py    # MT5 terminal interface
-│   ├── risk_manager.py     # Risk calculation engine
-│   └── trailing_stop.py    # Trailing stop logic
-└── docs/
-    └── screenshots/        # Documentation images
 ```
 
 ---
@@ -256,8 +242,6 @@ mt5-trade-dashboard/
 |------|------------|
 | **Default password** | Change immediately in `config/settings.py` |
 | **HTTP exposure** | Always use HTTPS in production (see SSL section) |
-| **MT5 trading access** | Restrict VPS firewall to your IP only |
-| **DLL imports** | Only enable on isolated trading VPS |
 | **Certificate renewal** | Set up auto-renewal in win-acme |
 
 ---
