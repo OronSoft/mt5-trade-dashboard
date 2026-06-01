@@ -65,7 +65,7 @@
 *Required MT5 configuration to allow Python-based trade operations.*
 
 ### Windows Firewall — Port 80 Rule
-![Firewall Port 80](docs/screenshots/firewall-port80.png)
+![Firewall Port 80](screenshots/firewall-port80.png)
 *Inbound rule for port 80 required during SSL certificate generation.*
 
 ---
