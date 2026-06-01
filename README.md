@@ -61,7 +61,7 @@
 *Main dashboard showing live positions, account stats, and symbol watchlist.*
 
 ### MT5 Algorithmic Trading Settings
-![MT5 Settings](docs/screenshots/mt5-settings.png)
+![MT5 Settings](screenshots/mt5-settings.png)
 *Required MT5 configuration to allow Python-based trade operations.*
 
 ### Windows Firewall — Port 80 Rule
