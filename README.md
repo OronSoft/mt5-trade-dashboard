@@ -21,3 +21,5 @@ open the port 80 in windows firewall:
 
 double check if the port is open:
 `python -m http.server 80`
+
+execute acm - manual, .., **pme files** 
