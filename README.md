@@ -1,5 +1,5 @@
 
-# MT5 Order Manager
+# MT5 Trade dashboard
 Medium article: Risk management and trailing stop with MT5 (with code)
 
 ### Install app on VPS
