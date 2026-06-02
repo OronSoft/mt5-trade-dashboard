@@ -48,7 +48,7 @@
 | **Order Creation** | Place market and pending orders through the web UI |
 | **Account Summary** | Real-time balance, equity, margin level, and free margin |
 | **Risk Visualization** | Color-coded risk exposure per symbol and position |
-| **Trailing Stop Engine** | ATR-based, fixed-pip, and percentage-based trailing stops |
+| **Trailing Stop Engine** | fixed-pip trailing stops |
 | **Multi-Symbol Watch** | Monitor multiple currency pairs from a single view |
 | **SSL-Ready** | HTTPS support for secure remote access |
 
